@@ -85,6 +85,6 @@ console.log(mobileCheck())
 
 // validateForms('.form-1', rules1, afterForm);
 
-// Подключение библиотеки модальных окон
+// Подключение библиотеки модальных окон Micromodal
 import MicroModal from 'micromodal';
 MicroModal.init();
